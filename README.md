@@ -1,3 +1,5 @@
 # git_demo
 
-first commit!
+The first commit!
+The second commit!
+
